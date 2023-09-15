@@ -4,7 +4,7 @@
   "description": "",
   "main": "floater-away",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon cli.js"
   },
   "author": "Gorka",
   "license": "MIT",
