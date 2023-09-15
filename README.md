@@ -11,4 +11,4 @@ A command line utility to listen for network changes and send an OS notification
 
 ## Dev
 
-- `npx nodemon cli.js`
+- `npm run dev`
